@@ -35,7 +35,7 @@ session_start();
 </nav>
         </div>
 
-        <!-- Main Content -->
+        <!-- Main Content -------->
         <div class="main-content">
             <div class="view-header">
                 <h1>Product Management</h1>
