@@ -418,5 +418,6 @@ $step = isset($_GET['step']) ? intval($_GET['step']) : (isset($_SESSION['current
     <div id="messageBox" class="message-area" style="position: fixed; bottom: 20px; right: 20px; z-index: 1000;"></div>
 
     <script src="grn.js"></script>
+    <script src="script.js"></script>
 </body>
 </html>

@@ -157,7 +157,7 @@ if ($result) {
             </form>
         </div>
     </div>
-
+    <script src="script.js"></script>                        
     <script>
         function showAddCategoryForm() {
             document.getElementById('modalTitle').textContent = 'Add New Category';
