@@ -18,12 +18,12 @@ session_start();
                 <h2>📦 POS System</h2>
             </div>
             <nav class="nav-menu">
-    <a href="index.php" class="nav-item active">📋 Products</a>
+    <a href="index.php" class="nav-item">📋 Products</a>
     <a href="add_product.php" class="nav-item">➕ Add Product</a>
     <a href="grn.php" class="nav-item">📥 GRN</a>
     <!-- Dropdown Menu - Expands Down -->
     <div class="dropdown">
-        <a href="#" class="nav-item dropdown-toggle">📊 Reports</a>
+        <a href="#" class="nav-item dropdown-toggle" active>📊 Reports</a>
         <div class="dropdown-menu">
             <a href="grn_reports.php" class="dropdown-item">📋 GRN Reports</a>
             <a href="sales_reports.php" class="dropdown-item">💰 Sales Reports</a>
